@@ -75,7 +75,6 @@
             android:key="keybox_data_setting"
             android:title="@string/keybox_data_title"
             android:summary="@string/keybox_data_summary"
-            app:position="bottom"
             android:defaultValue=""/>
 
     </PreferenceCategory>
